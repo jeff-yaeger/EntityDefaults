@@ -3,7 +3,7 @@
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
         <PackageId>EbaSoft.EntityDefaults</PackageId>
-        <Version>1.0.0</Version>
+        <Version>1.0.1</Version>
         <Authors>EbaSoft</Authors>
         <Company>EbaSoft</Company>
         <Product>Entity Defaults</Product>
@@ -12,9 +12,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="EbaSoft.EntityModels" Version="1.0.2" />
-        <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
-        <None Include="README.md" Pack="true" PackagePath="\" />
+        <PackageReference Include="EbaSoft.EntityModels" Version="1.0.2"/>
+        <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0"/>
+        <None Include="README.md" Pack="true" PackagePath="\"/>
     </ItemGroup>
-  
+
 </Project>
